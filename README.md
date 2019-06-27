@@ -1,1 +1,1 @@
-"# Trabalho de Sistemas Distribu°dos" 
+# Trabalho de Sistemas Distribu√≠dos
